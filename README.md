@@ -2,11 +2,12 @@
 
 The code within this repo provides a simple regime to build, train, and test the final deep learning model described in "Assessment of a Deep Learning Model Based on Electronic Health Record Data to Forecast Clinical Outcomes in Patients With Rheumatoid Arthritis.", Norgeot 2019. 
 
+Link to Manuscript on JAMA Network: https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2728001
+
 
 ## Brief Abstract
 We used structured Electronic Health Record (EHR) data, derived from rheumatology clinics at two distinct health systems (an academic health center and public safety net hospital) with different EHR platforms, to build a deep learning model that would predict future Rheumatoid Arthritis (RA) disease activity. Our results indicate that it is possible to build accurate models that generalize across hospitals with different EHR systems and diverse patient populations of only a few hundred patients.
 
-Link to Manuscript on JAMA Network: https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2728001
 
 #### Full Abstract
 **IMPORTANCE:**
